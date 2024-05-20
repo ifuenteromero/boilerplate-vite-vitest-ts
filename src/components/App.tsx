@@ -1,5 +1,4 @@
-import './App.css';
-import { projectName } from './projectName';
+import { projectName } from '../projectName';
 
 const App = () => {
     return <h1>{projectName}</h1>;
